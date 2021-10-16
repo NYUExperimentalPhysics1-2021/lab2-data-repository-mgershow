@@ -1,0 +1,3 @@
+crossing time (s)	slope (V/s)	crossing number
+22399.399627	0.825670	612
+22400.766355	0.925529	613
